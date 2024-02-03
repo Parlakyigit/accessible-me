@@ -8,7 +8,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  background: #0077cc; /* Blue background for skip links */
+  background: #000057ff; /* Blue background for skip links */
   color: #fff; /* White text color for skip links */
   padding: 1rem;
   z-index: 1000;
@@ -61,7 +61,7 @@ img {
 
 .main-nav ul li a {
   display: block;
-  color: #0077cc;
+  color: #000057ff;
   text-decoration: none;
   font-size: 1.25rem;
 }
@@ -82,7 +82,7 @@ form textarea {
 }
 
 form button {
-  background: #0077cc;
+  background: #000057ff;
   color: #fff; /* White button text */
   border: 2px solid black;
   padding: 1rem;
@@ -91,7 +91,7 @@ form button {
 
 .site-footer {
   padding: 2rem 0;
-  background-color: #0077cc; /* Blue footer background */
+  background-color: #000057ff; /* Blue footer background */
   color: #fff; /* White footer text */
   text-align: center;
   margin-top: 2rem;
